@@ -1,0 +1,8 @@
+.gradle/
+build/
+run/
+run-*/
+work/
+libs/
+src/main/art/gui/recipe_query_9_original.*
+src/main/art/gui/recipe_query_preview_*
