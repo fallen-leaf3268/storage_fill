@@ -3,6 +3,10 @@ build/
 run/
 run-*/
 work/
+logs/
+*.log
 libs/
-src/main/art/gui/recipe_query_9_original.*
-src/main/art/gui/recipe_query_preview_*
+/src/test/
+**/src/test/
+**/src/main/art/gui/recipe_query_9_original.*
+**/src/main/art/gui/recipe_query_preview_*
